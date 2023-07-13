@@ -1,1 +1,1 @@
-# machine-learnin-regression-algorithms
+# machine-learning-supervised-learning-algorithms
